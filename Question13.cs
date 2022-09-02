@@ -15,6 +15,8 @@ namespace Execises2
             Console.Write("Input upto the table number starting from 1: ");
             a = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine($"Multiplication tables of 1 to {a}: ");
+
             for(i = 1; i <= 10; i++)
             {
                 for (j = 1; j < a; j++)

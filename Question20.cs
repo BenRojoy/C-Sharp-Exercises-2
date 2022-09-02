@@ -8,7 +8,7 @@ namespace Execises2
 {
     internal class Question20
     {
-        public static void Main()
+        public static void Main20()
         {
             int a = 4, i, j;
 
